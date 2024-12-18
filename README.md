@@ -4,11 +4,9 @@ JavaWeb期末项目，一个基于JSP和Servlet的学生管理系统实现，前
 
 - 登录页
 
-![1.png](https://cdn.jsdelivr.net/gh/Hui4401/file/imgbed/project/StudentManager/1.png)
-
+![img.png](img.png)
 - 学生管理
-
-![2.png](https://cdn.jsdelivr.net/gh/Hui4401/file/imgbed/project/StudentManager/2.png)
+![img_1.png](img_1.png)
 
 ## 1.开发环境
 
