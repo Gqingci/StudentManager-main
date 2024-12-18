@@ -12,10 +12,10 @@ JavaWeb期末项目，一个基于JSP和Servlet的学生管理系统实现，前
 
 ## 1.开发环境
 
-- idea 2018
+- idea 2023
 - jdk 1.8
 - tomcat 9.0
-- mysql 5.7
+- mysql 8.0
 
 ## 2.实现功能
 
