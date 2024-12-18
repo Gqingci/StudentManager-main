@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    font-size: 12pt;
+    font-weight: 200;
+    background-image: url("../img/wallhaven-eyykl8.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; /* 设置文字颜色为白色 */
+}
+
+.main{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -150px 0 0 -300px;
+    padding: 100px;
+    border-radius:10px ;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
